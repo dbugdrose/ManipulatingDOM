@@ -6,4 +6,4 @@
 
  // Manipulated elements of the Document Object Model
 
-// Person who Peer Reviewed your assignment
+// Person who Peer Reviewed your assignment: Nicolas Gonzaba-Code and website looks good
